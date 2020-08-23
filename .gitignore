@@ -1,4 +1,4 @@
 node_modules/
-./package.json
-./package-lock.json
-./favicon.ico
+.package.json
+.package-lock.json
+.favicon.ico
